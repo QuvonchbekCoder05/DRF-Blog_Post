@@ -60,8 +60,8 @@ API'ni **Postman** yoki **cURL** yordamida test qilish mumkin.
        "username": "newuser",
        "password": "password123",
        "email": "newuser@example.com",
-       "phone_number": "+123456789",
-       "bio": "This is my bio."
+       "phone_number": "+998 40 455 33 23",
+       "bio": "Bu mening bioim."
    }
 
 # ENG(Inglizcha)
